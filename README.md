@@ -47,7 +47,7 @@ Hi! I'm Rina Pandey, currently pursuing my Masters in Information Technology. Pr
 ## 🎓 Education
 
 - **Masters of Information Technology** *(Current)*
-- (Add your undergraduate degree if you wish)
+- Bachelors of Computer Science and Information Technology
 
 ---
 
