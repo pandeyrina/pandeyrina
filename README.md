@@ -62,4 +62,4 @@ Hi! I'm Rina Pandey, currently pursuing my Masters in Information Technology. Pr
 
 ## 📬 Contact
 
-- [LinkedIn](www.linkedin.com/in/rinapandey)
+- [LinkedIn](https://www.linkedin.com/in/rina-pandey-4b0b6b16b/)
